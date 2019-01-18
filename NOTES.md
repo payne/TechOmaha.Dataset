@@ -12,3 +12,7 @@ To get logos from http://techomaha.com/list-omaha-user-groups/
 3. Right click on devtools console and save as to get the output into a text file.
 
 
+# Group Names
+1. `paras = document.getElementsByTagName('p');`
+2. `for (let i=0; i < paras.length; i++) { console.log(paras[i].innerText); }`
+3. Right click on devtools console and save as to get the output into a text file.
