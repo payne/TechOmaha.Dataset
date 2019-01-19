@@ -1,17 +1,5 @@
 for (let i=0; i < paras.length; i++) { console.log(paras[i].innerText); }
-VM690:1  
-VM690:1 MEETUPS
-VM690:1 VIDEOS
-VM690:1 ABOUT
-VM690:1 
-VM690:1 
-VM690:1 
-VM690:1 Meetups
-VM690:1 Videos
-VM690:1 About
-VM690:1 
-VM690:1 
-VM690:1 
+
 VM690:1 AUDACIOUS AGILE CONVERSATIONS WITH LEAN COFFEE
 
 
