@@ -19,6 +19,7 @@
       "name": "AUDACIOUS AGILE CONVERSATIONS WITH LEAN COFFEE",
       "lastUpdate": "2019/01/18",
       "active": true,
+      "logo": "logos/agile.jpeg",
       "primaryURL": "",
       "URLs": []
     },
@@ -51,11 +52,12 @@
       "name": "DEFCON 402/OMAHA HACKERS",
       "lastUpdate": "2019/01/18",
       "active": true,
+      "logo": "logos/hackers.jpg",
       "primaryURL": "",
       "URLs": []
     },
     {
-      "shortName": "",
+      "shortName": "macs",
       "name": "GREATER NEBRASKA MACINTOSH USER GROUP",
       "lastUpdate": "2019/01/18",
       "active": true,
@@ -63,7 +65,7 @@
       "URLs": []
     },
     {
-      "shortName": "",
+      "shortName": "oracle",
       "name": "HEARTLAND ORACLE USER GROUP",
       "lastUpdate": "2019/01/18",
       "active": true,
@@ -71,7 +73,7 @@
       "URLs": []
     },
     {
-      "shortName": "",
+      "shortName": "infragard",
       "name": "INFRAGARD NEBRASKA",
       "lastUpdate": "2019/01/18",
       "active": true,
@@ -79,15 +81,16 @@
       "URLs": []
     },
     {
-      "shortName": "",
+      "shortName": "isag",
       "name": "INFORMATION SECURITY AUDITOR GROUP",
       "lastUpdate": "2019/01/18",
       "active": true,
+      "logo": "logos/isaca.png",
       "primaryURL": "",
       "URLs": []
     },
     {
-      "shortName": "",
+      "shortName": "meteor",
       "name": "METEOR OMAHA",
       "lastUpdate": "2019/01/18",
       "active": true,
@@ -99,6 +102,7 @@
       "name": "NEBRASKA JS",
       "lastUpdate": "2019/01/18",
       "active": true,
+      "logo": "logos/nejs.png",
       "primaryURL": "",
       "URLs": []
     },
@@ -115,6 +119,7 @@
       "name": "NEBRASKA VIRTUAL REALITY GROUP",
       "lastUpdate": "2019/01/18",
       "active": true,
+      "logo": "logos/nevr.png",
       "primaryURL": "",
       "URLs": []
     },
@@ -123,6 +128,7 @@
       "name": "NG NEBRASKA (ANGULARJS)",
       "lastUpdate": "2019/01/18",
       "active": true,
+      "logo": "logos/ngneb.png",
       "primaryURL": "",
       "URLs": []
     },
@@ -135,31 +141,34 @@
       "URLs": []
     },
     {
-      "shortName": "",
+      "shortName": "agile",
       "name": "OMAHA AGILE DEVELOPMENT",
       "lastUpdate": "2019/01/18",
       "active": true,
+      "logo": "logos/agile.jpeg",
       "primaryURL": "",
       "URLs": []
     },
     {
-      "shortName": "",
+      "shortName": "beer",
       "name": "BEER && CODE",
       "lastUpdate": "2019/01/18",
       "active": true,
+      "logo": "logos/beer-and-code.png",
       "primaryURL": "",
       "URLs": []
     },
     {
-      "shortName": "",
+      "shortName": "bytes",
       "name": "OMAHA BYTES",
       "lastUpdate": "2019/01/18",
       "active": true,
+      "logo": "logos/bytes.png",
       "primaryURL": "",
       "URLs": []
     },
     {
-      "shortName": "",
+      "shortName": "cloud",
       "name": "OMAHA CLOUD COMPUTING GROUP",
       "lastUpdate": "2019/01/18",
       "active": true,
@@ -167,7 +176,7 @@
       "URLs": []
     },
     {
-      "shortName": "",
+      "shortName": "art",
       "name": "OMAHA DIGITAL ARTIST MEETUP",
       "lastUpdate": "2019/01/18",
       "active": true,
@@ -175,7 +184,7 @@
       "URLs": []
     },
     {
-      "shortName": "",
+      "shortName": "joomla",
       "name": "OMAHA FRIENDS OF JOOMLA",
       "lastUpdate": "2019/01/18",
       "active": true,
@@ -187,6 +196,7 @@
       "name": "OMAHA GAME DEVELOPERS ASSOCIATION",
       "lastUpdate": "2019/01/18",
       "active": true,
+      "logo": "logos/gdg.png",
       "primaryURL": "",
       "URLs": []
     },
@@ -203,6 +213,7 @@
       "name": "OMAHA MAKER GROUP",
       "lastUpdate": "2019/01/18",
       "active": true,
+      "logo": "logos/omg.png",
       "primaryURL": "",
       "URLs": []
     },
@@ -219,6 +230,7 @@
       "name": "OMAHA MOBILE GROUP",
       "lastUpdate": "2019/01/18",
       "active": true,
+      "logo": "logos/OmahaMobile.png",
       "primaryURL": "",
       "URLs": []
     },
@@ -227,6 +239,7 @@
       "name": "OMAHA PERL MONGERS",
       "lastUpdate": "2019/01/18",
       "active": true,
+      "logo": "logos/omaha-perl-mongers.png",
       "primaryURL": "",
       "URLs": []
     },
@@ -235,6 +248,7 @@
       "name": "OMAHA POWERSHELL USER GROUP",
       "lastUpdate": "2019/01/18",
       "active": true,
+      "logo": "logos/powershell.png",
       "primaryURL": "",
       "URLs": []
     },
@@ -243,6 +257,7 @@
       "name": "OMAHA PYTHON USERS GROUP",
       "lastUpdate": "2019/01/18",
       "active": true,
+      "logo": "logos/python.png",
       "primaryURL": "",
       "URLs": []
     },
@@ -251,6 +266,7 @@
       "name": "OMAHA RUBY & OPEN SOURCE MEETUP",
       "lastUpdate": "2019/01/18",
       "active": true,
+      "logo": "logos/ruby.jpg",
       "primaryURL": "",
       "URLs": []
     },
@@ -291,6 +307,7 @@
       "name": "OWASP OMAHA",
       "lastUpdate": "2019/01/18",
       "active": true,
+      "logo": "logos/owasp.jpeg",
       "primaryURL": "",
       "URLs": []
     },
@@ -299,6 +316,7 @@
       "name": "SIDE PROJECTS CLUB",
       "lastUpdate": "2019/01/18",
       "active": true,
+      "logo": "logos/side-projects.jpeg",
       "primaryURL": "",
       "URLs": []
     },
@@ -315,6 +333,7 @@
       "name": "VMUG - OMAHA AREA VMWARE USER GROUP",
       "lastUpdate": "2019/01/18",
       "active": true,
+      "logo": "logos/vmug.jpg",
       "primaryURL": "",
       "URLs": []
     },
@@ -323,6 +342,7 @@
       "name": "WOMEN IN TECHNOLOGY OF THE HEARTLAND",
       "lastUpdate": "2019/01/18",
       "active": true,
+      "logo": "logos/with.png",
       "primaryURL": "",
       "URLs": []
     },
@@ -331,6 +351,7 @@
       "name": "WP OMAHA (WORDPRESS)",
       "lastUpdate": "2019/01/18",
       "active": true,
+      "logo": "logos/wpomaha.jpg",
       "primaryURL": "",
       "URLs": []
     },
@@ -339,6 +360,7 @@
       "name": "OMAHA GOOGLE DEVELOPER GROUP (ANDROID)",
       "lastUpdate": "2019/01/18",
       "active": true,
+      "logo": "logos/gdg.png",
       "primaryURL": "",
       "URLs": []
     },
@@ -371,6 +393,7 @@
       "name": "NEBRASKA SALESFORCE DEVELOPERS",
       "lastUpdate": "2019/01/18",
       "active": true,
+      "logo": "logos/salesforce.png",
       "primaryURL": "",
       "URLs": []
     },
@@ -451,6 +474,7 @@
       "name": "PROJECT 18",
       "lastUpdate": "2019/01/18",
       "active": true,
+      "logo": "logos/p18-logo.jpg",
       "primaryURL": "",
       "URLs": []
     },
