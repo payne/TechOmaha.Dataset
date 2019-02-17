@@ -1,5 +1,4 @@
 {
-  "about": "Someday this will be a TechOmaha dataset with some JSON files that hold data from the existing website.  Folks could then use this when building a TechOmaha website for fun or class.",
   "lastUpdate": "2019/01/18",
   "metadata": {
     "about": {
@@ -1494,6 +1493,31 @@
       "content": "Lucas Hartman presents an Introduction to the Unity Game Engine to the Omaha Dynamic Language Users Group."
     }
   ],
+  "about": {
+    "comment": "Someday this will be a TechOmaha dataset with some JSON files that hold data from the existing website.  Folks could then use this when building a TechOmaha website for fun or class.",
+    "data": [
+      {
+        "headline": "About Us",
+        "text": ""
+      },
+      {
+        "headline": "Who are we",
+        "text": "Tech Omaha is a group of passionate technologists building a strong tech community in Omaha."
+      },
+      {
+        "headline": "But really, who are we",
+        "text": "Listed below are the core organizers that meet regularly to guide Tech Omaha. We are an all-volunteer, not-for-profit group."
+      },
+      {
+        "headline": "Code of Conduct",
+        "text": "We have a Code of Conduct in an effort to create a safe environment for all community members. Click to read about our expected behaviors, anti-harassment policy and how to report a violation."
+      },
+      {
+        "headline": "Sponsors",
+        "text": "Tech Omaha is supported by community members volunteering time to develop the tech community."
+      }
+    ]
+  },
   "core_organizers": [
     {
       "name": "Jim Phillips",
