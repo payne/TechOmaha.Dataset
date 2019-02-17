@@ -1510,7 +1510,8 @@
       },
       {
         "headline": "Code of Conduct",
-        "text": "We have a Code of Conduct in an effort to create a safe environment for all community members. Click to read about our expected behaviors, anti-harassment policy and how to report a violation."
+        "text": "We have a Code of Conduct in an effort to create a safe environment for all community members. Click to read about our expected behaviors, anti-harassment policy and how to report a violation.",
+        "url": "https://github.com/TechOmaha/code-of-conduct"
       },
       {
         "headline": "Sponsors",
