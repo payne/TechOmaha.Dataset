@@ -1494,5 +1494,30 @@
       "content": "Lucas Hartman presents an Introduction to the Unity Game Engine to the Omaha Dynamic Language Users Group."
     }
   ],
-  "organizers": []
+  "core_organizers": [
+    {
+      "name": "Jim Phillips",
+      "photo": "photos/Jim_Phillips.jpg"
+    },
+    {
+      "name": "Michael Struthers",
+      "photo": "photos/Michael_Struthers.jpg"
+    },
+    {
+      "name": "Victor Cassone",
+      "photo": "photos/Victor_Cassone.jpg"
+    },
+    {
+      "name": "Dave Kerber",
+      "photo": "photos/dave_kerber.jpg"
+    },
+    {
+      "name": "Jen Homann",
+      "photo": "photos/jen_homann.jpg"
+    },
+    {
+      "name": "Ryan Stille",
+      "photo": "photos/ryan_stille.jpg"
+    }
+  ]
 }
