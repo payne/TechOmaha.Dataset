@@ -1,6 +1,20 @@
 {
   "about": "Someday this will be a TechOmaha dataset with some JSON files that hold data from the existing website.  Folks could then use this when building a TechOmaha website for fun or class.",
   "lastUpdate": "2019/01/18",
+  "metadata": {
+    "about": {
+      "headline": "About Tech Omaha",
+      "text": "Tech Omaha is a group of passionate technologists building a strong tech community in Omaha."
+    },
+    "calendar": {
+      "headline": "Event Calendar",
+      "text": "Discover tech events happening in the Omaha area. Meetups, conferences, Beer && Codes – if techy types are getting together – it should be listed here!"
+    },
+    "video": {
+      "headline": "Video Repository",
+      "text": "TechOmaha is also a repository of video recordings from user group meetings."
+    }
+  },
   "groups": [
     {
       "shortName": "OJUG",
@@ -1479,5 +1493,6 @@
       "title": "Lucas Hartman – Intro to Unity Game Engine",
       "content": "Lucas Hartman presents an Introduction to the Unity Game Engine to the Omaha Dynamic Language Users Group."
     }
-  ]
+  ],
+  "organizers": []
 }
