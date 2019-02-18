@@ -1,5 +1,31 @@
 {
   "lastUpdate": "2019/02/17",
+  "about": {
+    "comment": "This is be a TechOmaha dataset that hold data from the existing website.  Folks could then use this when building a TechOmaha website for fun or class.",
+    "data": [
+      {
+        "headline": "About Us",
+        "text": ""
+      },
+      {
+        "headline": "Who are we",
+        "text": "Tech Omaha is a group of passionate technologists building a strong tech community in Omaha."
+      },
+      {
+        "headline": "But really, who are we",
+        "text": "Listed below are the core organizers that meet regularly to guide Tech Omaha. We are an all-volunteer, not-for-profit group."
+      },
+      {
+        "headline": "Code of Conduct",
+        "text": "We have a Code of Conduct in an effort to create a safe environment for all community members. Click to read about our expected behaviors, anti-harassment policy and how to report a violation.",
+        "url": "https://github.com/TechOmaha/code-of-conduct"
+      },
+      {
+        "headline": "Sponsors",
+        "text": "Tech Omaha is supported by community members volunteering time to develop the tech community."
+      }
+    ]
+  },
   "metadata": {
     "about": {
       "headline": "About Tech Omaha",
@@ -1826,32 +1852,6 @@
       "youTubeUrl": "https://www.youtube.com/embed/i9MFKfxulTU?feature=oembed"
     }
   ],
-  "about": {
-    "comment": "Someday this will be a TechOmaha dataset with some JSON files that hold data from the existing website.  Folks could then use this when building a TechOmaha website for fun or class.",
-    "data": [
-      {
-        "headline": "About Us",
-        "text": ""
-      },
-      {
-        "headline": "Who are we",
-        "text": "Tech Omaha is a group of passionate technologists building a strong tech community in Omaha."
-      },
-      {
-        "headline": "But really, who are we",
-        "text": "Listed below are the core organizers that meet regularly to guide Tech Omaha. We are an all-volunteer, not-for-profit group."
-      },
-      {
-        "headline": "Code of Conduct",
-        "text": "We have a Code of Conduct in an effort to create a safe environment for all community members. Click to read about our expected behaviors, anti-harassment policy and how to report a violation.",
-        "url": "https://github.com/TechOmaha/code-of-conduct"
-      },
-      {
-        "headline": "Sponsors",
-        "text": "Tech Omaha is supported by community members volunteering time to develop the tech community."
-      }
-    ]
-  },
   "core_organizers": [
     {
       "name": "Jim Phillips",
