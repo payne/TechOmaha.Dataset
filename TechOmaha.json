@@ -444,17 +444,23 @@
       "name": "UX HAPPY HOUR BOOK CLUB",
       "lastUpdate": "2019/01/18",
       "active": true,
-      "primaryURL": "",
-      "URLs": []
+      "note": "Last meeting 9/18/2018",
+      "primaryURL": "https://www.meetup.com/UX-Happy-Hour-Book-Club/",
+      "URLs": [
+        "https://www.meetup.com/UX-Happy-Hour-Book-Club/"
+      ]
     },
     {
       "shortName": "VMUG",
       "name": "VMUG - OMAHA AREA VMWARE USER GROUP",
       "lastUpdate": "2019/01/18",
-      "active": true,
+      "active": false,
+      "note": "URL TechOmaha has leads to a 404 error.",
       "logo": "logos/vmug.jpg",
-      "primaryURL": "",
-      "URLs": []
+      "primaryURL": "https://www.vmug.com/index.php?mo=cm&op=ld&fid=217&gid=153",
+      "URLs": [
+        "https://www.vmug.com/index.php?mo=cm&op=ld&fid=217&gid=153"
+      ]
     },
     {
       "shortName": "WITH",
