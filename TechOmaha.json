@@ -24,7 +24,8 @@
       "primaryURL": "http://OJUG.org",
       "URLs": [
         "http://OJUG.org",
-        "https://www.meetup.com/omahajava/"
+        "https://www.meetup.com/omahajava/",
+        "https://twitter.com/omahajug"
       ]
     },
     {
@@ -245,33 +246,47 @@
       "name": "OMAHA DIGITAL ARTIST MEETUP",
       "lastUpdate": "2019/01/18",
       "active": true,
-      "primaryURL": "",
-      "URLs": []
+      "primaryURL": "https://www.meetup.com/omaha-digital-artists/",
+      "URLs": [
+        "https://www.meetup.com/omaha-digital-artists/"
+      ]
     },
     {
       "shortName": "joomla",
       "name": "OMAHA FRIENDS OF JOOMLA",
       "lastUpdate": "2019/01/18",
-      "active": true,
-      "primaryURL": "",
-      "URLs": []
+      "active": false,
+      "note": "Meetup says group does not exist",
+      "primaryURL": "https://www.meetup.com/omahajug/",
+      "URLs": [
+        "https://www.meetup.com/omahajug/"
+      ]
     },
     {
       "shortName": "gda",
       "name": "OMAHA GAME DEVELOPERS ASSOCIATION",
       "lastUpdate": "2019/01/18",
       "active": true,
+      "note": "Activiely announcing meetings on twitter.",
       "logo": "logos/gdg.png",
-      "primaryURL": "",
-      "URLs": []
+      "primaryURL": "http://omahagamedev.com/",
+      "URLs": [
+        "http://omahagamedev.com/",
+        "https://twitter.com/OmahaGameDev",
+        "https://www.youtube.com/user/OmahaGameDev"
+      ]
     },
     {
       "shortName": "go",
       "name": "OMAHA GO",
       "lastUpdate": "2019/01/18",
       "active": true,
-      "primaryURL": "",
-      "URLs": []
+      "note": "TechOmaha has wrong URL.",
+      "primaryURL": "https://www.meetup.com/Omaha-Gophers/",
+      "URLs": [
+        "https://www.meetup.com/Omaha-Gophers/",
+        "https://twitter.com/omaha_go"
+      ]
     },
     {
       "shortName": "omg",
@@ -279,16 +294,21 @@
       "lastUpdate": "2019/01/18",
       "active": true,
       "logo": "logos/omg.png",
-      "primaryURL": "",
-      "URLs": []
+      "primaryURL": "http://omahamakergroup.org/",
+      "URLs": [
+        "http://omahamakergroup.org/",
+        "https://www.facebook.com/OmahaMakerGroup/"
+      ]
     },
     {
       "shortName": ".NET",
       "name": "OMAHA MICROSOFT TECHNOLOGY GROUP/.NET",
       "lastUpdate": "2019/01/18",
       "active": true,
-      "primaryURL": "",
-      "URLs": []
+      "primaryURL": "https://omahamtg.com/",
+      "URLs": [
+        "https://omahamtg.com/"
+      ]
     },
     {
       "shortName": "mobile",
