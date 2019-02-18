@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/payne/TechOmaha.Dataset#readme",
   "dependencies": {
-    "requests": "^0.2.2"
+    "axios": "^0.18.0"
   }
 }
