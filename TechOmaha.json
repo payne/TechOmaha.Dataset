@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2019/01/18",
+  "lastUpdate": "2019/02/17",
   "metadata": {
     "about": {
       "headline": "About Tech Omaha",
@@ -17,7 +17,7 @@
   "groups": [
     {
       "shortName": "OJUG",
-      "name": "Omaha JVM Users Group",
+      "name": "Omaha Java (VM) Users Group",
       "lastUpdate": "2019/01/18",
       "active": true,
       "logo": "logos/ojug.png",
@@ -33,32 +33,42 @@
       "lastUpdate": "2019/01/18",
       "active": true,
       "logo": "logos/agile.jpeg",
-      "primaryURL": "",
-      "URLs": []
+      "primaryURL": "https://www.meetup.com/Omaha-Lean-Coffee/",
+      "URLs": [
+        "https://www.meetup.com/Omaha-Lean-Coffee/"
+      ]
     },
     {
       "shortName": "",
       "name": "ATLASSIAN USER GROUP",
       "lastUpdate": "2019/01/18",
-      "active": true,
-      "primaryURL": "",
-      "URLs": []
+      "active": false,
+      "note": "No signs of a meeting for over a year",
+      "lastMeeting": "2017/12/12",
+      "primaryURL": "https://aug.atlassian.com/omaha/",
+      "URLs": [
+        "https://aug.atlassian.com/omaha/"
+      ]
     },
     {
       "shortName": "AgileForDefense",
       "name": "AGILE FOR DEFENSE",
       "lastUpdate": "2019/01/18",
       "active": true,
-      "primaryURL": "",
-      "URLs": []
+      "primaryURL": "https://www.meetup.com/Agile-for-Defense/",
+      "URLs": [
+        "https://www.meetup.com/Agile-for-Defense/"
+      ]
     },
     {
       "shortName": "CoffeAndCode",
       "name": "OMAHA COFFEE AND CODE",
       "lastUpdate": "2019/01/18",
       "active": true,
-      "primaryURL": "",
-      "URLs": []
+      "primaryURL": "https://www.meetup.com/coffeeandcode/",
+      "URLs": [
+        "https://www.meetup.com/coffeeandcode/"
+      ]
     },
     {
       "shortName": "DC402",
@@ -66,16 +76,22 @@
       "lastUpdate": "2019/01/18",
       "active": true,
       "logo": "logos/hackers.jpg",
-      "primaryURL": "",
-      "URLs": []
+      "primaryURL": "http://dc402.org/",
+      "URLs": [
+        "http://dc402.org/"
+      ]
     },
     {
       "shortName": "macs",
       "name": "GREATER NEBRASKA MACINTOSH USER GROUP",
       "lastUpdate": "2019/01/18",
-      "active": true,
-      "primaryURL": "",
-      "URLs": []
+      "active": false,
+      "note": "Facebook comment that no one picked that up after Dave stepped down.",
+      "primaryURL": "http://gnmug.org/",
+      "URLs": [
+        "http://gnmug.org/",
+        "https://www.facebook.com/groups/gnmug/"
+      ]
     },
     {
       "shortName": "oracle",
@@ -83,33 +99,43 @@
       "lastUpdate": "2019/01/18",
       "active": true,
       "logo": "logos/houg_logo.png",
-      "primaryURL": "",
-      "URLs": []
+      "primaryURL": "http://heartlandoug.org/",
+      "URLs": [
+        "http://heartlandoug.org/"
+      ]
     },
     {
       "shortName": "infragard",
       "name": "INFRAGARD NEBRASKA",
       "lastUpdate": "2019/01/18",
       "active": true,
-      "primaryURL": "",
-      "URLs": []
+      "primaryURL": "https://www.nebraskainfragard.org/",
+      "URLs": [
+        "https://www.nebraskainfragard.org/"
+      ]
     },
     {
       "shortName": "isag",
       "name": "INFORMATION SECURITY AUDITOR GROUP",
       "lastUpdate": "2019/01/18",
-      "active": true,
+      "active": false,
+      "note": "The website says it is frozen.",
       "logo": "logos/isaca.png",
-      "primaryURL": "",
-      "URLs": []
+      "primaryURL": "https://isaca-omaha.webs.com/",
+      "URLs": [
+        "https://isaca-omaha.webs.com/"
+      ]
     },
     {
       "shortName": "meteor",
       "name": "METEOR OMAHA",
       "lastUpdate": "2019/01/18",
-      "active": true,
-      "primaryURL": "",
-      "URLs": []
+      "active": false,
+      "note": "Website says no meetings since 2015.",
+      "primaryURL": "https://www.meetup.com/Meteor-Omaha/",
+      "URLs": [
+        "https://www.meetup.com/Meteor-Omaha/"
+      ]
     },
     {
       "shortName": "nejs",
@@ -117,42 +143,55 @@
       "lastUpdate": "2019/01/18",
       "active": true,
       "logo": "logos/nejs.png",
-      "primaryURL": "",
-      "URLs": []
+      "primaryURL": "https://nebraskajs.com/",
+      "URLs": [
+        "https://nebraskajs.com/",
+        "https://www.meetup.com/nebraskajs/"
+      ]
     },
     {
       "shortName": "NEcert",
       "name": "NEBRASKA CERT",
       "lastUpdate": "2019/01/18",
       "active": true,
-      "primaryURL": "",
-      "URLs": []
+      "primaryURL": "https://www.nebraskacert.com/",
+      "URLs": [
+        "https://www.nebraskacert.com/"
+      ]
     },
     {
-      "shortName": "",
+      "shortName": "nevr",
       "name": "NEBRASKA VIRTUAL REALITY GROUP",
       "lastUpdate": "2019/01/18",
-      "active": true,
+      "active": false,
+      "note": "Last meeting 8/17/2017",
       "logo": "logos/nevr.png",
-      "primaryURL": "",
-      "URLs": []
+      "primaryURL": "https://www.meetup.com/Nebraska-Virtual-Reality/",
+      "URLs": [
+        "https://www.meetup.com/Nebraska-Virtual-Reality/"
+      ]
     },
     {
-      "shortName": "",
+      "shortName": "AngularJS",
       "name": "NG NEBRASKA (ANGULARJS)",
       "lastUpdate": "2019/01/18",
-      "active": true,
+      "active": false,
+      "note": "Meetup says group does not exist.",
       "logo": "logos/ngneb.png",
-      "primaryURL": "",
-      "URLs": []
+      "primaryURL": "https://www.meetup.com/ng-nebraska/",
+      "URLs": [
+        "https://www.meetup.com/ng-nebraska/"
+      ]
     },
     {
       "shortName": "OLUG",
       "name": "OLUG - OMAHA LINUX USER GROUP",
       "lastUpdate": "2019/01/18",
       "active": true,
-      "primaryURL": "",
-      "URLs": []
+      "primaryURL": "http://www.olug.org/",
+      "URLs": [
+        "http://www.olug.org/"
+      ]
     },
     {
       "shortName": "agile",
@@ -160,34 +199,46 @@
       "lastUpdate": "2019/01/18",
       "active": true,
       "logo": "logos/agile.jpeg",
-      "primaryURL": "",
-      "URLs": []
+      "primaryURL": "http://www.omahaagiledevelopment.org/",
+      "URLs": [
+        "http://www.omahaagiledevelopment.org/",
+        "https://www.meetup.com/Omaha-Agile-Development/"
+      ]
     },
     {
       "shortName": "beer",
       "name": "BEER && CODE",
       "lastUpdate": "2019/01/18",
-      "active": true,
+      "active": false,
+      "note": "Last meeting 8/17/2017",
       "logo": "logos/beer-and-code.png",
-      "primaryURL": "",
-      "URLs": []
+      "primaryURL": "http://www.beerandcode.org/",
+      "URLs": [
+        "http://www.beerandcode.org/"
+      ]
     },
     {
       "shortName": "bytes",
       "name": "OMAHA BYTES",
       "lastUpdate": "2019/01/18",
-      "active": true,
+      "active": false,
+      "note": "SiteAdvisor.com says there is malware on this site.",
       "logo": "logos/bytes.png",
-      "primaryURL": "",
-      "URLs": []
+      "primaryURL": "http://www.omahabytes.com/",
+      "URLs": [
+        "http://www.omahabytes.com/"
+      ]
     },
     {
       "shortName": "cloud",
       "name": "OMAHA CLOUD COMPUTING GROUP",
       "lastUpdate": "2019/01/18",
-      "active": true,
-      "primaryURL": "",
-      "URLs": []
+      "active": false,
+      "note": "Meetup.com says group does not exist.",
+      "primaryURL": "https://www.meetup.com/OmaCloud/",
+      "URLs": [
+        "https://www.meetup.com/OmaCloud/"
+      ]
     },
     {
       "shortName": "art",
