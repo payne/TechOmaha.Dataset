@@ -468,8 +468,11 @@
       "lastUpdate": "2019/01/18",
       "active": true,
       "logo": "logos/with.png",
-      "primaryURL": "",
-      "URLs": []
+      "primaryURL": "https://www.meetup.com/witheartland/",
+      "URLs": [
+        "https://www.meetup.com/witheartland/",
+        "https://www.facebook.com/witheartland/"
+      ]
     },
     {
       "shortName": "wp",
@@ -477,8 +480,11 @@
       "lastUpdate": "2019/01/18",
       "active": true,
       "logo": "logos/wpomaha.jpg",
-      "primaryURL": "",
-      "URLs": []
+      "primaryURL": "https://wpomaha.org/",
+      "URLs": [
+        "https://wpomaha.org/",
+        "https://www.meetup.com/WP-Omaha/"
+      ]
     },
     {
       "shortName": "android",
@@ -486,32 +492,42 @@
       "lastUpdate": "2019/01/18",
       "active": true,
       "logo": "logos/gdg.png",
-      "primaryURL": "",
-      "URLs": []
+      "primaryURL": "https://www.meetup.com/GDGOmaha/",
+      "URLs": [
+        "https://www.meetup.com/GDGOmaha/"
+      ]
     },
     {
       "shortName": "emerging",
       "name": "OMAHA EMERGING DEVELOPERS",
       "lastUpdate": "2019/01/18",
       "active": true,
-      "primaryURL": "",
-      "URLs": []
+      "primaryURL": "https://www.meetup.com/omaha-emerging-developers/",
+      "URLs": [
+        "https://www.meetup.com/omaha-emerging-developers/"
+      ]
     },
     {
       "shortName": "dsbd",
       "name": "DATA SCIENCE AND BIG DATA OMAHA",
       "lastUpdate": "2019/01/18",
       "active": true,
-      "primaryURL": "",
-      "URLs": []
+      "note": "Last meeting 4/26/2018",
+      "primaryURL": "https://www.meetup.com/Omaha-Big-Data-Meetup-Midwest-Big-Data-Hub/",
+      "URLs": [
+        "https://www.meetup.com/Omaha-Big-Data-Meetup-Midwest-Big-Data-Hub/"
+      ]
     },
     {
       "shortName": "spring",
       "name": "OMAHA SPRING USERS GROUP",
       "lastUpdate": "2019/01/18",
       "active": true,
-      "primaryURL": "",
-      "URLs": []
+      "note": "Might be merging with OJUG.org",
+      "primaryURL": "https://www.meetup.com/Omaha-Spring-Users-Group/",
+      "URLs": [
+        "https://www.meetup.com/Omaha-Spring-Users-Group/"
+      ]
     },
     {
       "shortName": "salesForce",
@@ -519,24 +535,32 @@
       "lastUpdate": "2019/01/18",
       "active": true,
       "logo": "logos/salesforce.png",
-      "primaryURL": "",
-      "URLs": []
+      "primaryURL": "https://trailblazercommunitygroups.com/?&utm_source=meetup&utm_medium=email&utm_campaign=community_groups&utm_content=devs",
+      "URLs": [
+        "https://trailblazercommunitygroups.com/?&utm_source=meetup&utm_medium=email&utm_campaign=community_groups&utm_content=devs"
+      ]
     },
     {
       "shortName": "OCW",
       "name": "OMAHA CODING WOMEN",
       "lastUpdate": "2019/01/18",
-      "active": true,
-      "primaryURL": "",
-      "URLs": []
+      "active": false,
+      "note": "Domain omahacodingwomen.com does not exist.",
+      "primaryURL": "omahacodingwomen.com",
+      "URLs": [
+        "omahacodingwomen.com"
+      ]
     },
     {
       "shortName": "wine",
       "name": "OMAHA WINE && CODE",
       "lastUpdate": "2019/01/18",
       "active": true,
-      "primaryURL": "",
-      "URLs": []
+      "note": "Last meeting 3/22/2018",
+      "primaryURL": "https://www.meetup.com/wine-and-code/",
+      "URLs": [
+        "https://www.meetup.com/wine-and-code/"
+      ]
     },
     {
       "shortName": "azure",
