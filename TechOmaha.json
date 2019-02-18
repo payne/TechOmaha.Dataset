@@ -312,30 +312,41 @@
     },
     {
       "shortName": "mobile",
-      "name": "OMAHA MOBILE GROUP",
+      "name": "Learn Swift Omaha",
+      "oldName": "OMAHA MOBILE GROUP",
       "lastUpdate": "2019/01/18",
       "active": true,
+      "note": "Name changed since being listed in TechOmaha.com",
       "logo": "logos/OmahaMobile.png",
-      "primaryURL": "",
-      "URLs": []
+      "primaryURL": "https://www.meetup.com/LearnSwiftOmaha/",
+      "URLs": [
+        "https://www.meetup.com/LearnSwiftOmaha/"
+      ]
     },
     {
       "shortName": "perl",
       "name": "OMAHA PERL MONGERS",
       "lastUpdate": "2019/01/18",
-      "active": true,
+      "active": false,
+      "note": "No traffic on mailing list since 2016.",
       "logo": "logos/omaha-perl-mongers.png",
-      "primaryURL": "",
-      "URLs": []
+      "primaryURL": "http://omaha.pm.org/",
+      "URLs": [
+        "http://omaha.pm.org/",
+        "https://mail.pm.org/pipermail/omaha-pm/"
+      ]
     },
     {
       "shortName": "psh",
       "name": "OMAHA POWERSHELL USER GROUP",
       "lastUpdate": "2019/01/18",
-      "active": true,
+      "active": false,
+      "note": "No meetings since 2014",
       "logo": "logos/powershell.png",
-      "primaryURL": "",
-      "URLs": []
+      "primaryURL": "https://powershell.org/2014/09/omaha-powershell-user-group-august-meeting-materials/",
+      "URLs": [
+        "https://powershell.org/2014/09/omaha-powershell-user-group-august-meeting-materials/"
+      ]
     },
     {
       "shortName": "python",
@@ -343,8 +354,12 @@
       "lastUpdate": "2019/01/18",
       "active": true,
       "logo": "logos/python.png",
-      "primaryURL": "",
-      "URLs": []
+      "primaryURL": "http://www.omahapython.org/blog/",
+      "URLs": [
+        "http://www.omahapython.org/blog/",
+        "https://www.meetup.com/Omahas-Python-Users-Group/",
+        "https://twitter.com/OmahaPython"
+      ]
     },
     {
       "shortName": "ruby",
@@ -352,40 +367,53 @@
       "lastUpdate": "2019/01/18",
       "active": true,
       "logo": "logos/ruby.jpg",
-      "primaryURL": "",
-      "URLs": []
+      "primaryURL": "http://www.meetup.com/Omaha-Ruby-Meetup/",
+      "URLs": [
+        "http://www.meetup.com/Omaha-Ruby-Meetup/"
+      ]
     },
     {
       "shortName": "talk",
       "name": "OMAHA SOFTWARE DEVELOPMENT PUBLIC SPEAKING MEETUP",
       "lastUpdate": "2019/01/18",
-      "active": true,
-      "primaryURL": "",
-      "URLs": []
+      "active": false,
+      "note": "Last meeting was 9/21/2016",
+      "primaryURL": "https://www.meetup.com/Omaha-Software-Development-Public-Speaking-Meetup/",
+      "URLs": [
+        "https://www.meetup.com/Omaha-Software-Development-Public-Speaking-Meetup/"
+      ]
     },
     {
       "shortName": "sqlBI",
       "name": "OMAHA SQL/BI USER GROUP",
       "lastUpdate": "2019/01/18",
       "active": true,
-      "primaryURL": "",
-      "URLs": []
+      "note": "SQL Saturday is annual event.  Website certificate is expired.",
+      "primaryURL": "https://www.omahasql.com/",
+      "URLs": [
+        "https://www.omahasql.com/"
+      ]
     },
     {
       "shortName": "techConnect",
       "name": "OMAHA TECHCONNECT",
       "lastUpdate": "2019/01/18",
       "active": true,
-      "primaryURL": "",
-      "URLs": []
+      "primaryURL": "http://omahatechconnect.org/",
+      "URLs": [
+        "http://omahatechconnect.org/"
+      ]
     },
     {
       "shortName": "UX",
       "name": "OMAHA UX GROUP",
       "lastUpdate": "2019/01/18",
-      "active": true,
-      "primaryURL": "",
-      "URLs": []
+      "active": false,
+      "note": "Meetup.com says group does not exist.",
+      "primaryURL": "https://www.meetup.com/Omaha-UX-Group/",
+      "URLs": [
+        "https://www.meetup.com/Omaha-UX-Group/"
+      ]
     },
     {
       "shortName": "OWASP",
@@ -393,8 +421,10 @@
       "lastUpdate": "2019/01/18",
       "active": true,
       "logo": "logos/owasp.jpeg",
-      "primaryURL": "",
-      "URLs": []
+      "primaryURL": "https://www.owasp.org/index.php/Omaha",
+      "URLs": [
+        "https://www.owasp.org/index.php/Omaha"
+      ]
     },
     {
       "shortName": "side",
@@ -402,8 +432,12 @@
       "lastUpdate": "2019/01/18",
       "active": true,
       "logo": "logos/side-projects.jpeg",
-      "primaryURL": "",
-      "URLs": []
+      "primaryURL": "http://sideprojectsclub.com/",
+      "URLs": [
+        "http://sideprojectsclub.com/",
+        "https://www.meetup.com/Side-Projects-Club/",
+        "https://www.facebook.com/groups/SideProjectsClub/"
+      ]
     },
     {
       "shortName": "uxBooks",
