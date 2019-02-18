@@ -567,73 +567,106 @@
       "name": "OMAHA AZURE",
       "lastUpdate": "2019/01/18",
       "active": true,
-      "primaryURL": "",
-      "URLs": []
+      "primaryURL": "https://www.meetup.com/Omaha-Azure-User-Group-Meetup/",
+      "URLs": [
+        "https://www.meetup.com/Omaha-Azure-User-Group-Meetup/"
+      ]
     },
     {
       "shortName": "aws",
       "name": "OMAHA AMAZON WEB SERVICES",
       "lastUpdate": "2019/01/18",
       "active": true,
-      "primaryURL": "",
-      "URLs": []
+      "primaryURL": "https://www.meetup.com//Omaha-Amazon-Web-Services-Meetup/",
+      "URLs": [
+        "https://www.meetup.com//Omaha-Amazon-Web-Services-Meetup/"
+      ]
     },
     {
       "shortName": "unity",
       "name": "OMAHA UNITY 3D",
       "lastUpdate": "2019/01/18",
-      "active": true,
-      "primaryURL": "",
-      "URLs": []
+      "active": false,
+      "note": "Meetup.com says group does not exist.",
+      "primaryURL": "https://www.meetup.com/Omaha-Unity-3D/%22",
+      "URLs": [
+        "https://www.meetup.com/Omaha-Unity-3D/%22"
+      ]
     },
     {
       "shortName": "devops",
       "name": "OMAHA DEVOPS",
       "lastUpdate": "2019/01/18",
       "active": true,
-      "primaryURL": "",
-      "URLs": []
+      "primaryURL": "https://www.meetup.com/Omaha-DevOps-Meetup/",
+      "URLs": [
+        "https://www.meetup.com/Omaha-DevOps-Meetup/"
+      ]
     },
     {
       "shortName": "qa",
       "name": "OMAHA SOFTWARE TESTING & QA",
       "lastUpdate": "2019/01/18",
       "active": true,
-      "primaryURL": "",
-      "URLs": []
+      "note": "Last meeting 7/11/2018",
+      "primaryURL": "https://www.meetup.com/Omaha-Software-Testing-and-QA/",
+      "URLs": [
+        "https://www.meetup.com/Omaha-Software-Testing-and-QA/"
+      ]
     },
     {
       "shortName": "IoT",
       "name": "IoT MIDLANDS",
       "lastUpdate": "2019/01/18",
       "active": true,
-      "primaryURL": "",
-      "URLs": []
+      "primaryURL": "https://www.meetup.com/meetup-group-hDqQvvhT/",
+      "URLs": [
+        "https://www.meetup.com/meetup-group-hDqQvvhT/"
+      ]
     },
     {
       "shortName": "ds",
       "name": "DATA SCIENCE ON THE PLAINS",
       "lastUpdate": "2019/01/18",
-      "active": true,
-      "primaryURL": "",
-      "URLs": []
+      "active": false,
+      "note": "Meetup.com says group does not exist.",
+      "primaryURL": "https://www.meetup.com/Data-Science-on-the-Plains/",
+      "URLs": [
+        "https://www.meetup.com/Data-Science-on-the-Plains/"
+      ]
     },
     {
-      "shortName": "18",
+      "shortName": "p18",
       "name": "PROJECT 18",
       "lastUpdate": "2019/01/18",
       "active": true,
       "logo": "logos/p18-logo.jpg",
-      "primaryURL": "",
-      "URLs": []
+      "primaryURL": "http://techomaha.com/project18/",
+      "URLs": [
+        "http://techomaha.com/project18/",
+        "https://twitter.com/project18omaha",
+        "https://www.facebook.com/groups/p18omaha/"
+      ]
     },
     {
       "shortName": "HashiCorp",
       "name": "OMAHA HASHICORP",
       "lastUpdate": "2019/01/18",
       "active": true,
-      "primaryURL": "",
-      "URLs": []
+      "primaryURL": "https://www.meetup.com/Omaha-HashiCorp-User-Group/",
+      "URLs": [
+        "https://www.meetup.com/Omaha-HashiCorp-User-Group/"
+      ]
+    },
+    {
+      "shortName": "drupal",
+      "name": "Omaha Drupal Meetup",
+      "lastUpdate": "2019/02/17",
+      "active": true,
+      "primaryURL": "https://www.meetup.com/Omaha-Drupal-Meetup/",
+      "URLs": [
+        "https://www.meetup.com/Omaha-Drupal-Meetup/"
+      ]
     }
   ],
   "videos": [
