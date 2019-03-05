@@ -66,7 +66,20 @@
       ]
     },
     {
-      "shortName": "",
+      "shortName": "R",
+      "name": "Omaha R Users Group",
+      "lastUpdate": "2019/01/18",
+      "active": true,
+      "note": "9/20/2018 was the last meeting.",
+      "lastMeeting": "2018/09/20",
+      "primaryURL": "https://www.meetup.com/Omaha-R-Users-Group/",
+      "URLs": [
+        "https://www.meetup.com/Omaha-R-Users-Group/",
+	"https://omahar.org/"
+      ]
+    },
+    {
+      "shortName": "JIRA",
       "name": "ATLASSIAN USER GROUP",
       "lastUpdate": "2019/01/18",
       "active": false,
