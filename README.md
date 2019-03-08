@@ -4,3 +4,7 @@ holding data from the existing website.  Folks could then use this when building
 
 Here's a simple REPL for looking at things from the JSON: https://repl.it/@payne/TechOmahaDataSetPlay
 
+
+Please fork and play with this https://codepen.io/payne/full/VggYym that draws a web page using the dataset.   Please tweet to @MattPayneOrg with anything you create?
+
+
